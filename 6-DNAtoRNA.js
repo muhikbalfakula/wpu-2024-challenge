@@ -1,4 +1,4 @@
-// 5 / 366
+// 6 / 366
 // link challenge : https://codewars.com/kata/5556282156230d0e5e000089
 
 // cara 1
