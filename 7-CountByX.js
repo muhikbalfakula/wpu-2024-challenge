@@ -1,5 +1,5 @@
 // 7 / 366
-// link challenge
+// link challenge : https://www.codewars.com/kata/5513795bd3fafb56c200049e
 
 // cara 1
 // function countBy(x, n){
